@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ig-ngrx": {
+      "hosting": {
+        "NgrxDemo": [
+          "ig-ngrx"
+        ]
+      }
+    }
+  }
+}
